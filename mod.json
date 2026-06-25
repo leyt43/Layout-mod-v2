@@ -1,0 +1,11 @@
+{
+    "geode": "3.0.0-beta.1",
+    "id": "yourname.layout_generator",
+    "name": "Mega Layout Generator",
+    "version": "1.0.0",
+    "developer": "Developer",
+    "description": "Автоматически создает геймплей!",
+    "dependencies": [
+        { "id": "geode.loader", "version": ">=3.0.0-beta.1", "importance": "required" }
+    ]
+}
