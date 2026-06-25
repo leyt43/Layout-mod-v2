@@ -147,4 +147,4 @@ class $modify(MyAdvancedGeneratorLayer, LevelEditorLayer) {
         }
         FLAlertLayer::create("Успех!", "Лейаут сгенерирован!", "Посмотреть")->show();
     }
-}; 
+};
